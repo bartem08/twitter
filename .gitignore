@@ -1,0 +1,14 @@
+.slcache/
+out/
+target/
+wrapper/
+.asscache
+.classpath
+.project
+lib
+grailsw
+grailsw.bat
+twitter.iml
+twitter.ipr
+twitter.iws
+twitter-grailsPlugins.iml
